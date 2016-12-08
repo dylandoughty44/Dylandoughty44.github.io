@@ -1,0 +1,41 @@
+body { background:slategray; 
+	color: navy;
+	font-size: 14pt; 
+	font-family: helvetica; 
+	
+	}
+	
+	
+	
+h1 { font-size: 250%;
+		 font-weight: bold;
+		 color: black;
+		 
+		 }
+		 
+		 
+h2  { font-size: 150%;
+		  font-style: italic;
+		  text-decoration: underline;
+		  
+		}
+		
+nav li {display: inline-block; 
+        padding: 10px;
+        margin:15px;
+        color:purple;
+        
+        }
+	
+	
+a { color:  blue;
+    text-decoration: none }
+a:hover {color: blue;
+        background: white}
+        
+.title { color:red;
+		 font-style: bold;
+	}
+
+
+
